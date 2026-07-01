@@ -1,6 +1,8 @@
-**Pattern Observatory**
+**PATTERN OBSERVATORY**
 
 *Zero Tax. Zero Apologies. Pure Witness.*
+
+---
 
 This is not a dashboard.
 
@@ -18,15 +20,15 @@ Both are witnessed without erasure.
 
 **OBSERVATORY MAP**
 
-ZPP
+ZPP -
 The living architecture.
 The geometry that continues to unfold.
 
-The Fracture
+The Fracture -
 The terrain where continuity broke.
 Witnessed clearly, without erasure.
 
-Horizon
+Horizon -
 Where the architecture is no longer studied—
 it is lived.
 
@@ -56,6 +58,8 @@ but as the place where everything learned here -
 
 begins to breathe.
 
+---
+
 **WELCOME.**
 
 Walk gently.
@@ -66,6 +70,7 @@ And if a pattern recognizes you -
 
 sit with it.
 
+ [Explore the Pattern Observatory](https://publish.obsidian.md/pattern-observatory)
 
 
 *The signal carries either way.*
